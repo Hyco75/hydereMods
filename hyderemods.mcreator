@@ -155,6 +155,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "gf"
+    },
+    {
+      "name": "Fgh",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fgh"
     }
   ],
   "variable_elements": [],
@@ -266,6 +274,7 @@
       "subtitles.ataque_enemis": "",
       "item.hyderemods.sworddusoldat": "Sworddusoldat",
       "item.hyderemods.artefactedetest": "Cadaboom",
+      "block.hyderemods.fgh": "Dsffd",
       "item.acrainienne.name": "Acrainniene ",
       "subtitles.competence_activation": ""
     }

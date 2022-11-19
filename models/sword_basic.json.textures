@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "textured1",
+        "1": "texture1",
+        "2": "texture2",
+        "3": "t",
+        "4": "textured5"
+      },
+      "name": "default"
+    }
+  }
+}

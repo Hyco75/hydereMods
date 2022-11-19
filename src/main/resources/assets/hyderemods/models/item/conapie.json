@@ -1,0 +1,17 @@
+{
+  "parent": "hyderemods:custom/lava_sword",
+  "textures": {
+    "0": "hyderemods:blocks/lava_sword1",
+    "1": "hyderemods:blocks/lava_sword2",
+    "2": "hyderemods:blocks/lava_sword3",
+    "3": "hyderemods:blocks/lava_sword4",
+    "4": "hyderemods:blocks/lava_sword5",
+    "5": "hyderemods:blocks/lava_sword6",
+    "6": "hyderemods:blocks/lava_sword7",
+    "7": "hyderemods:blocks/lava_sword8",
+    "8": "hyderemods:blocks/lava_sword9",
+    "9": "hyderemods:blocks/lava_sword10",
+    "10": "hyderemods:blocks/lava_sword11",
+    "particle": "hyderemods:items/test_sword"
+  }
+}

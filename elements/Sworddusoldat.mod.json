@@ -1,0 +1,41 @@
+{
+  "_fv": 33,
+  "_type": "item",
+  "definition": {
+    "renderType": 1,
+    "texture": "t",
+    "customModelName": "sword_du_soldat:default",
+    "name": "Sworddusoldat",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "enchantability": 200,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 10,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 10.0,
+    "specialInfo": [
+      "Une arme utilis�e par les soldats des environs"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "isFood": false,
+    "nutritionalValue": 0,
+    "saturation": 0.30000001192092896,
+    "isMeat": false,
+    "isAlwaysEdible": false,
+    "animation": "eat"
+  }
+}

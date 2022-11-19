@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "main_de_la_magie_du_vend",
+        "1": "magie_du_vend"
+      },
+      "name": "default"
+    }
+  }
+}

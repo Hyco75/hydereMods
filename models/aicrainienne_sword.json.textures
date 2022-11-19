@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "icrainienne1",
+        "1": "icrainienne2",
+        "2": "icrainienne3",
+        "3": "icrainienne4",
+        "4": "icrainienne5",
+        "5": "icrainienne6",
+        "6": "icrainienne7",
+        "7": "icrainienne8",
+        "8": "icrainienne9",
+        "9": "icrainienne10",
+        "10": "icrainienne11"
+      },
+      "name": "default"
+    }
+  }
+}

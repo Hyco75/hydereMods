@@ -1,0 +1,17 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "texture_b1",
+        "2": "texture_b2",
+        "3": "texture_b3",
+        "4": "texture_b4",
+        "5": "texture_b5",
+        "6": "texture_b6",
+        "7": "texture_b7",
+        "9": "texture_b9"
+      },
+      "name": "default"
+    }
+  }
+}

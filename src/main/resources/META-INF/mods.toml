@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Not specified"
+
+[[mods]]
+modId="hyderemods"
+version="1.0.0"
+displayName="Hydere_Mods"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="MOI, MCreator"
+
+[[dependencies.hyderemods]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

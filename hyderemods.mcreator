@@ -1,0 +1,278 @@
+{
+  "mod_elements": [
+    {
+      "name": "Sworddusoldat",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Acrainienne",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Irust",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Conapie",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Artefactedetest",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "artefactedetest"
+    },
+    {
+      "name": "ArtefactedetestLorsDunClicDroitDansLair",
+      "type": "procedure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "artefactedetest_lors_dun_clic_droit_dans_lair",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ShingToufie",
+      "type": "procedure",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shing_toufie",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SwordBasicr",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sword_basicr"
+    },
+    {
+      "name": "Competenceactiverarmecummun",
+      "type": "particle",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "competenceactiverarmecummun"
+    },
+    {
+      "name": "Spawnt",
+      "type": "procedure",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spawnt",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Spawn",
+      "type": "command",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spawn"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "test",
+      "files": [
+        "oix"
+      ],
+      "category": "player"
+    },
+    {
+      "name": "voixsoldat1",
+      "files": [
+        "voixsoldat1"
+      ],
+      "category": "player"
+    },
+    {
+      "name": "voixmarchant1",
+      "files": [
+        "voixmarchant1"
+      ],
+      "category": "player"
+    },
+    {
+      "name": "voix_de_gleshni",
+      "files": [
+        "voixgleshni"
+      ],
+      "category": "master"
+    },
+    {
+      "name": "choque_electrique",
+      "files": [
+        "rc_hoc_electrique__0134_"
+      ],
+      "category": "master"
+    },
+    {
+      "name": "soufle_du_vend",
+      "files": [
+        "ol"
+      ],
+      "category": "master"
+    },
+    {
+      "name": "voix_garde_du_village1",
+      "files": [
+        "voix_guarde_du_pond"
+      ],
+      "category": "player"
+    },
+    {
+      "name": "que_veut_tu_me_vendre_acheteur",
+      "files": [
+        "voix_dun_acheteur"
+      ],
+      "category": "player"
+    },
+    {
+      "name": "quest_vendeur_q1_village1",
+      "files": [
+        "uest_endeur"
+      ],
+      "category": "player"
+    },
+    {
+      "name": "sanglier",
+      "files": [
+        "arm_ochon_qui_grogne_2__1659_"
+      ],
+      "category": "player"
+    },
+    {
+      "name": "ataque_enemis",
+      "files": [
+        "ataque_enemis"
+      ],
+      "category": "player",
+      "subtitle": ""
+    },
+    {
+      "name": "competence_activation",
+      "files": [
+        "activation_de_la_competence"
+      ],
+      "category": "player",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.irust.name": "Terrestria",
+      "item.hyderemods.sword_basicr": "Shadanain",
+      "item.sworddusoldat.name": "Sworddusoldat",
+      "item.conapie.name": "l\u0027�p�e du d�mon",
+      "item.skillvend.name": "Choque de vend",
+      "item.hyderemods.conapie": "l\u0027�p�e du d�mon",
+      "item.swordbasic.name": "Sword Basic",
+      "item.wind.name": "Wind",
+      "item.hyderemods.irust": "Terrestria",
+      "item.skillfoudre.name": "choque_�lectrique",
+      "item.hyderemods.acrainienne": "Acrainniene ",
+      "item.mana.name": "MANA",
+      "item.foudre.name": "Foudre",
+      "subtitles.ataque_enemis": "",
+      "item.hyderemods.sworddusoldat": "Sworddusoldat",
+      "item.hyderemods.artefactedetest": "Cadaboom",
+      "item.acrainienne.name": "Acrainniene ",
+      "subtitles.competence_activation": ""
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "hyderemods",
+    "modName": "Hydere_Mods",
+    "version": "1.0.0",
+    "author": "MOI, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.hyderemods",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}

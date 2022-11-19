@@ -1,0 +1,9 @@
+{
+  "parent": "hyderemods:custom/tnt_artefacte",
+  "textures": {
+    "0": "hyderemods:blocks/texture_artefacte1",
+    "1": "hyderemods:blocks/texture_artefacte2",
+    "2": "hyderemods:blocks/texture_artefacte2",
+    "particle": "hyderemods:items/arteface_de_test"
+  }
+}

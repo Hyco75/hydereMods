@@ -1,0 +1,10 @@
+{
+  "parent": "hyderemods:custom/sword_du_soldat",
+  "textures": {
+    "0": "hyderemods:blocks/textures1",
+    "1": "hyderemods:blocks/textures2",
+    "2": "hyderemods:blocks/textures3",
+    "3": "hyderemods:blocks/textures4",
+    "particle": "hyderemods:items/t"
+  }
+}

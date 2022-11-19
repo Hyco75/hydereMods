@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "lava_sword1",
+        "1": "lava_sword2",
+        "2": "lava_sword3",
+        "3": "lava_sword4",
+        "4": "lava_sword5",
+        "5": "lava_sword6",
+        "6": "lava_sword7",
+        "7": "lava_sword8",
+        "8": "lava_sword9",
+        "9": "lava_sword10",
+        "10": "lava_sword11"
+      },
+      "name": "default"
+    }
+  }
+}

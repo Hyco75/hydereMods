@@ -1,0 +1,11 @@
+{
+  "parent": "hyderemods:custom/sword_basic",
+  "textures": {
+    "0": "hyderemods:blocks/textured1",
+    "1": "hyderemods:blocks/texture1",
+    "2": "hyderemods:blocks/texture2",
+    "3": "hyderemods:blocks/t",
+    "4": "hyderemods:blocks/textured5",
+    "particle": "hyderemods:items/t"
+  }
+}

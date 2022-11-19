@@ -1,0 +1,110 @@
+{
+  "test": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "hyderemods:oix",
+        "stream": false
+      }
+    ]
+  },
+  "voixsoldat1": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "hyderemods:voixsoldat1",
+        "stream": false
+      }
+    ]
+  },
+  "voixmarchant1": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "hyderemods:voixmarchant1",
+        "stream": false
+      }
+    ]
+  },
+  "voix_de_gleshni": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "hyderemods:voixgleshni",
+        "stream": false
+      }
+    ]
+  },
+  "choque_electrique": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "hyderemods:rc_hoc_electrique__0134_",
+        "stream": false
+      }
+    ]
+  },
+  "soufle_du_vend": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "hyderemods:ol",
+        "stream": false
+      }
+    ]
+  },
+  "voix_garde_du_village1": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "hyderemods:voix_guarde_du_pond",
+        "stream": false
+      }
+    ]
+  },
+  "que_veut_tu_me_vendre_acheteur": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "hyderemods:voix_dun_acheteur",
+        "stream": false
+      }
+    ]
+  },
+  "quest_vendeur_q1_village1": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "hyderemods:uest_endeur",
+        "stream": false
+      }
+    ]
+  },
+  "sanglier": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "hyderemods:arm_ochon_qui_grogne_2__1659_",
+        "stream": false
+      }
+    ]
+  },
+  "ataque_enemis": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "hyderemods:ataque_enemis",
+        "stream": false
+      }
+    ]
+  },
+  "competence_activation": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "hyderemods:activation_de_la_competence",
+        "stream": false
+      }
+    ]
+  }
+}

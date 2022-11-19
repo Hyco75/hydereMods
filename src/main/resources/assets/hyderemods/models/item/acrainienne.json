@@ -1,0 +1,17 @@
+{
+  "parent": "hyderemods:custom/aicrainienne_sword",
+  "textures": {
+    "0": "hyderemods:blocks/icrainienne1",
+    "1": "hyderemods:blocks/icrainienne2",
+    "2": "hyderemods:blocks/icrainienne3",
+    "3": "hyderemods:blocks/icrainienne4",
+    "4": "hyderemods:blocks/icrainienne5",
+    "5": "hyderemods:blocks/icrainienne6",
+    "6": "hyderemods:blocks/icrainienne7",
+    "7": "hyderemods:blocks/icrainienne8",
+    "8": "hyderemods:blocks/icrainienne9",
+    "9": "hyderemods:blocks/icrainienne10",
+    "10": "hyderemods:blocks/icrainienne11",
+    "particle": "hyderemods:items/test_sword"
+  }
+}

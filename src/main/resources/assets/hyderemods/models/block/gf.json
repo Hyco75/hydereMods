@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hyderemods:blocks/orcaniatexture",
+    "up": "hyderemods:blocks/texture",
+    "north": "hyderemods:blocks/texture_b4",
+    "east": "hyderemods:blocks/main_de_la_magie_du_vend",
+    "south": "hyderemods:blocks/icrainienne3",
+    "west": "hyderemods:blocks/orcaniatexture",
+    "particle": "hyderemods:blocks/orcaniatexture"
+  }
+}

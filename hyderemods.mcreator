@@ -147,6 +147,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "dsffd"
+    },
+    {
+      "name": "Gf",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gf"
     }
   ],
   "variable_elements": [],
@@ -244,6 +252,7 @@
       "item.hyderemods.sword_basicr": "Shadanain",
       "item.sworddusoldat.name": "Sworddusoldat",
       "item.conapie.name": "l\u0027�p�e du d�mon",
+      "block.hyderemods.gf": "Dsffd",
       "item.skillvend.name": "Choque de vend",
       "item.hyderemods.conapie": "l\u0027�p�e du d�mon",
       "block.hyderemods.dsffd": "Dsffd",
